@@ -36,7 +36,7 @@ Full-Stack Developer with 6+ years of experience in designing scalable systems a
 - Enhanced anomaly detection capabilities
 
 ## 📫 How to Reach Me
-- LinkedIn: [Gary Chang](https://www.linkedin.com)
+- LinkedIn: [Gary Chang](https://www.linkedin.com/in/garychang4/)
 - Email: hchang67@myseneca.ca
 - Location: Toronto, ON
 
