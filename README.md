@@ -1,116 +1,52 @@
-# Hi there 👋 I'm Gary Chang
+# Gary Chang
 
-Full-Stack Developer with 6+ years of experience in designing scalable systems and managing cross-functional projects. Currently pursuing Computer Programming & Analysis at Seneca Polytechnic.
+**Enterprise DevOps Engineer** · Toronto, ON
 
-## 🚀 About Me
+6+ years building and managing production infrastructure — from government-scale IAM systems to cloud-native CI/CD platforms. I bring a rare combination of hands-on Kubernetes expertise, infrastructure automation, and IT project leadership.
 
-- 💻 Full-Stack Developer passionate about building scalable web applications
-- 🌱 Currently working on a Teaching Platform using MERN stack
-- 📊 Former IT Project Manager with experience in government and insurance sectors
-- 🎓 Computer Programming student at Seneca Polytechnic (GPA 4.0)
-- 🌐 Experienced in cloud deployment and CI/CD pipelines
-
-## 🛠️ Tech Stack
-
-### Front-End
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-### Back-End
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### DevOps & Tools
-
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
-
-### Certifications
-
-![PMP](https://img.shields.io/badge/-PMP-4A4A4A?style=flat-square)
-![CSM](https://img.shields.io/badge/-CSM-4A4A4A?style=flat-square)
-![CSPO](https://img.shields.io/badge/-CSPO-4A4A4A?style=flat-square)
-
-## 🏆 Projects
-
-### 🌟 Personal Project
-
-#### [Teaching Platform](https://github.com/YourGitHubUsername/teaching-platform) (Current)
-
-```diff
-+ A comprehensive full-stack learning platform built from scratch using MERN stack
-```
-
-#### 🔗 Links
-
-- [Live Demo](https://www.garychang1214.com/) - Experience the platform
-- [GitHub Repository](https://github.com/humbeatbox/Teaching-Platform) - View the code
-
-#### Tech Architecture:
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
-#### Key Features:
-
-- 🎓 **Student Portal**
-  - Course discovery and enrollment system
-  - Personal learning dashboard
-  - Real-time progress tracking
-- 👨‍🏫 **Instructor Dashboard**
-  - Course creation and management
-  - Student enrollment analytics
-  - Content management system
-- 🔒 **Security Implementation**
-  - JWT authentication with Passport.js
-  - Bcrypt password hashing
-  - Role-based access control
-- 🚀 **DevOps & Infrastructure**
-  - Microservices architecture
-  - Docker containerization
-  - AWS ECR/EC2 deployment
-  - Nginx reverse proxy & load balancing
-  - CI/CD with GitHub Actions
-
-## 📫 How to Reach Me
-
-- Email: hchang67@myseneca.ca
-- Location: Toronto, ON
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=humbeatbox&show_icons=true&theme=radical)
-
-## 🌟 Professional Highlights
-
-- Implemented ISO 27001-compliant security controls
-- Optimized database performance through SQL query tuning
-- Developed real-time transaction systems with Java and CUDA
-- Expert in system architecture design and optimization
+Currently finishing my Advanced Diploma at Seneca Polytechnic.
 
 ---
 
-💼 Open to collaboration and new opportunities in full-stack development and cloud architecture.
+### What I Work With
+
+**Orchestration & Cloud:** Kubernetes, Docker, AWS (SAA-C03), Azure, CloudFront  
+**Automation & GitOps:** Terraform (003), Jenkins (Groovy), GitHub Actions, Argo CD  
+**Languages & Data:** Python, Shell/Bash, Java, TypeScript, SQL (Oracle, MS SQL, MongoDB)  
+**Systems:** Linux/Unix, IAM, VM provisioning, firewall/network config, log-based incident triage
+
+### Certifications
+
+**[Kubestronaut](https://www.cncf.io/training/kubestronaut/)** — [CKA](https://www.credly.com/badges/180f9511-c803-4328-b98b-1995c8cf0b9e) · [CKAD](https://www.credly.com/badges/d44da5c7-7d85-4c8b-a082-5d08a5415cdf) · [CKS](https://www.credly.com/badges/05894dcf-3e99-4589-90d6-597ee78712f1) · [KCNA](https://www.credly.com/badges/34788a34-af46-46f9-9891-f1cf29471c76) · [KCSA](https://www.credly.com/badges/0181e63d-1b50-48e0-903a-95eb54051ab6)  
+**[AWS Solutions Architect – Associate](https://cp.certmetrics.com/amazon/en/public/verify/credential/cd195e2df05c4c4b876c36f0d3da3810)**  
+**[HashiCorp Terraform Associate 003](https://www.credly.com/badges/33ba8200-c9ad-454e-94c6-323396f3ee27)**  
+**[PMP®](https://www.credly.com/badges/1490472c-525f-488a-b920-034cc4cc01f2/linked_in_profile)** · [CSM](https://bcert.me/bc/html/show-badge.html?b=eycteavp) · [CSPO](https://bcert.me/bc/html/show-badge.html?b=tcquncfg)
+
+---
+
+### Featured Project
+
+#### Cloud-Native Learning Management System
+`MERN` `Kubernetes (K3s)` `Terraform` `ArgoCD` `Jenkins` `AWS`
+
+A production-grade learning platform with a full GitOps pipeline — not a tutorial project.
+
+- **Infrastructure as Code** — Terraform-managed VPCs, EC2 instances, and Security Groups on AWS
+- **Container Orchestration** — Microservices deployed to K3s with Secrets Management and RBAC
+- **CI/CD Pipeline** — Jenkins + ArgoCD with dynamic K8s build agents, parallelized builds, and self-healing deployments
+- **Application Layer** — MERN stack with JWT auth (Passport.js), bcrypt, role-based access, and Nginx reverse proxy
+- **Result** — 80% reduction in deployment lead time, zero-downtime updates across environments
+
+> [garychang1214.com](https://www.garychang1214.com/) · [Source Code](https://github.com/humbeatbox/Teaching-Platform)
+
+---
+
+### Career Context
+
+Most recently at **Ai Financial** (Co-op, 2025) — built Python ELT pipelines processing 200k+ daily financial records, deployed Terraform-managed Azure infrastructure, and ran GitOps workflows with Jenkins/ArgoCD to Kubernetes.
+
+Before that, **6+ years at Taiwan's Ministry of Justice Investigation Bureau** — managed 300+ user IAM roles, coordinated VM provisioning across DMZ environments, led digitalization of chain-of-custody systems, and enforced ISO 27001 compliance.
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/garychang1214/) · [Portfolio](https://www.garychang1214.com/)
